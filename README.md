@@ -116,8 +116,8 @@ Device is stationary.
 
 ## Author
 
-- **Your Name**
-- Email: your.email@example.com
+- **Sandeep Kumar K**
+- Email: kumarsandeep.k7259@gmail.com
 
 ---
 
