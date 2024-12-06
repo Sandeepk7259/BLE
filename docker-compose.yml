@@ -1,0 +1,10 @@
+
+version: '3.8'
+services:
+  app:
+    build: .
+    container_name: ble_accel_monitor
+    environment:
+      - PYTHONUNBUFFERED=1
+    devices:
+      - "/dev/ttyUSB0:/dev/ttyUSB0"  # Example device mapping
